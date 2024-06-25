@@ -4,6 +4,7 @@
 /build
 /devel
 /logs
+/.catkin_tools
 
 # Gazebo cache
 docker/cache/*
