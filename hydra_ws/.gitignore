@@ -1,5 +1,10 @@
 .vscode
 
+# ROS
+/build
+/devel
+/logs
+
 # Gazebo cache
 docker/cache/*
 !docker/cache/.gazebo
