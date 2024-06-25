@@ -1,0 +1,7 @@
+.vscode
+
+# Gazebo cache
+docker/cache/*
+!docker/cache/.gazebo
+docker/cache/.gazebo/*
+!docker/cache/.gazebo/.gitkeep
