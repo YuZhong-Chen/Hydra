@@ -1,0 +1,5 @@
+minkindr/minkindr
+/home/Hydra/hydra_ws/devel/.private/minkindr/cmake.lock /home/Hydra/hydra_ws/devel/./cmake.lock
+/home/Hydra/hydra_ws/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig-version.cmake /home/Hydra/hydra_ws/devel/share/minkindr/cmake/minkindrConfig-version.cmake
+/home/Hydra/hydra_ws/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig.cmake /home/Hydra/hydra_ws/devel/share/minkindr/cmake/minkindrConfig.cmake
+/home/Hydra/hydra_ws/devel/.private/minkindr/lib/pkgconfig/minkindr.pc /home/Hydra/hydra_ws/devel/lib/pkgconfig/minkindr.pc

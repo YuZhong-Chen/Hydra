@@ -1,0 +1,31 @@
+authors: []
+blacklist:
+- hdf5_map_io
+- mesh_msgs_hdf5
+- label_manager
+- mesh_tools
+- rviz_map_plugin
+- minkindr_python
+build_space: build
+catkin_make_args: []
+cmake_args:
+- -DCMAKE_BUILD_TYPE=Release
+- -DGTSAM_TANGENT_PREINTEGRATION=OFF
+- -DGTSAM_BUILD_WITH_MARCH_NATIVE=OFF
+devel_layout: linked
+devel_space: devel
+extend_path: null
+extends: null
+install: false
+install_space: install
+isolate_install: false
+jobs_args: []
+licenses:
+- TODO
+log_space: logs
+maintainers: []
+make_args: []
+source_space: src
+use_env_cache: false
+use_internal_make_jobserver: true
+whitelist: []

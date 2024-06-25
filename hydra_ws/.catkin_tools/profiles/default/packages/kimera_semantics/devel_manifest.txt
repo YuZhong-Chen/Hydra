@@ -1,0 +1,6 @@
+kimera_semantics/kimera_semantics
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics/cmake.lock /home/Hydra/hydra_ws/devel/./cmake.lock
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics/share/kimera_semantics/cmake/kimera_semanticsConfig.cmake /home/Hydra/hydra_ws/devel/share/kimera_semantics/cmake/kimera_semanticsConfig.cmake
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics/share/kimera_semantics/cmake/kimera_semanticsConfig-version.cmake /home/Hydra/hydra_ws/devel/share/kimera_semantics/cmake/kimera_semanticsConfig-version.cmake
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics/lib/libkimera_semantics.so /home/Hydra/hydra_ws/devel/lib/libkimera_semantics.so
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics/lib/pkgconfig/kimera_semantics.pc /home/Hydra/hydra_ws/devel/lib/pkgconfig/kimera_semantics.pc

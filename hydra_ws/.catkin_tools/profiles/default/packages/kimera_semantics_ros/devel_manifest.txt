@@ -1,0 +1,9 @@
+kimera_semantics/kimera_semantics_ros
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/cmake.lock /home/Hydra/hydra_ws/devel/./cmake.lock
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/share/kimera_semantics_ros/cmake/kimera_semantics_rosConfig.cmake /home/Hydra/hydra_ws/devel/share/kimera_semantics_ros/cmake/kimera_semantics_rosConfig.cmake
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/share/kimera_semantics_ros/cmake/kimera_semantics_rosConfig-version.cmake /home/Hydra/hydra_ws/devel/share/kimera_semantics_ros/cmake/kimera_semantics_rosConfig-version.cmake
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/lib/libkimera_semantics_ros.so /home/Hydra/hydra_ws/devel/lib/libkimera_semantics_ros.so
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/lib/kimera_semantics_ros/kimera_semantics_rosbag /home/Hydra/hydra_ws/devel/lib/kimera_semantics_ros/kimera_semantics_rosbag
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/lib/kimera_semantics_ros/kimera_semantics_node /home/Hydra/hydra_ws/devel/lib/kimera_semantics_ros/kimera_semantics_node
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/lib/kimera_semantics_ros/semantic_simulator_eval /home/Hydra/hydra_ws/devel/lib/kimera_semantics_ros/semantic_simulator_eval
+/home/Hydra/hydra_ws/devel/.private/kimera_semantics_ros/lib/pkgconfig/kimera_semantics_ros.pc /home/Hydra/hydra_ws/devel/lib/pkgconfig/kimera_semantics_ros.pc

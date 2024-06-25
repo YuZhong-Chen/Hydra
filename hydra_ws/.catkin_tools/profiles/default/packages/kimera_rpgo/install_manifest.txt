@@ -1,0 +1,16 @@
+/home/Hydra/hydra_ws/devel/lib/libKimeraRPGO.so
+/home/Hydra/hydra_ws/devel/lib/cmake/KimeraRPGO/KimeraRPGOTargets.cmake
+/home/Hydra/hydra_ws/devel/lib/cmake/KimeraRPGO/KimeraRPGOTargets-release.cmake
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/Logger.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/GenericSolver.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/max_clique_finder/findClique.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/max_clique_finder/graphIO.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/outlier/Pcm.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/outlier/OutlierRemoval.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/RobustSolver.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/SolverParams.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/utils/GeometryUtils.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/utils/GraphUtils.h
+/home/Hydra/hydra_ws/devel/include/KimeraRPGO/utils/TypeUtils.h
+/home/Hydra/hydra_ws/devel/lib/cmake/KimeraRPGO/KimeraRPGOConfig.cmake
+/home/Hydra/hydra_ws/devel/lib/cmake/KimeraRPGO/KimeraRPGOConfigVersion.cmake
