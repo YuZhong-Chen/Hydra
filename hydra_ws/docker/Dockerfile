@@ -36,11 +36,16 @@ RUN apt-get update && apt-get upgrade -y && apt-get install -y \
     python3-pip \
     && rm -rf /var/lib/apt/lists/*
 
-# Install ROS tools
+# Install ROS tools and dependencies
 RUN apt-get update && apt-get install -y \
     python3-rosdep \
     python3-catkin-tools \ 
     python3-vcstool \
+    libgoogle-glog-dev \
+    ocl-icd-opencl-dev \
+    opencl-headers \
+    libprotobuf-dev \
+    protobuf-compiler \
     && rm -rf /var/lib/apt/lists/*
 
 COPY .bashrc /home/$USERNAME/.bashrc
