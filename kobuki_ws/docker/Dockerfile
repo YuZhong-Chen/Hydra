@@ -101,3 +101,7 @@ CMD ["/bin/bash"]
 # Setup udev rules for Kobuki.
 COPY udev_rules /home/$USERNAME/udev_rules
 RUN /home/$USERNAME/udev_rules/install_udev_rules.sh
+
+# Custom setup
+RUN git clone https://github.com/YuZhong-Chen/.setup_env.git ~/.setup_env \
+    && cd ~/.setup_env && ./install.sh ros1
