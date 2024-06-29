@@ -4,7 +4,7 @@
     "dockerComposeFile": "../docker/compose.yaml",
     "service": "kobuki-ws",
     // workspace settings
-    "workspaceFolder": "/home/ros2-agv-essentials/kobuki_ws",
+    "workspaceFolder": "/home/user/Hydra/kobuki_ws",
     // Vscode extensions
     "customizations": {
         "vscode": {
