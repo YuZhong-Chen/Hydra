@@ -4,7 +4,7 @@
     "dockerComposeFile": "../docker/compose.yaml",
     "service": "hydra-ws",
     // workspace settings
-    "workspaceFolder": "/home/Hydra/hydra_ws",
+    "workspaceFolder": "/home/user/Hydra/hydra_ws",
     // Vscode extensions
     "customizations": {
         "vscode": {
